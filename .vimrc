@@ -58,6 +58,14 @@ set smartindent
 
 set expandtab "Convert tab to space 
 
+retab
+
+set autoindent
+
+set splitbelow
+
+set expandtab "Convert tab to space 
+
 set backspace=indent,eol,start 
 
 
