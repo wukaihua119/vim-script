@@ -60,7 +60,9 @@ set expandtab "Convert tab to space
 
 set backspace=indent,eol,start 
 
+set splitbelow
 
+set hlsearch
 
 
 
