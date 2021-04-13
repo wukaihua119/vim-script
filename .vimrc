@@ -32,6 +32,8 @@ let g:ycm_collect_identifiers_from_tag_files = 1
 "let g:ycm_seed_identifiers_with_syntax = 1
 set completeopt-=preview
 set completeopt=longest,menu
+"turn off the syntax checking 
+"let g:ycm_show_diagnostics_ui=0
 let g:ycm_confirm_extra_conf=0
 let g:ycm_cache_omnifunc=0
 let g:ycm_complete_in_comments=1
