@@ -1,6 +1,7 @@
 set nocompatible
 
 set rtp+=~/.vim/bundle/vundle
+" or set rtp+=~/.vim/bundle/Vundle.vim
 
 " Setting Plugins 
 call vundle#begin() 
