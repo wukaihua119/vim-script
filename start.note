@@ -1,4 +1,9 @@
 1. Building vim from source: 
     https://github.com/ycm-core/YouCompleteMe/wiki/Building-Vim-from-source
+    The YCM requires the vim version up to 8.2 
+2. Install the vundle to manage the vim packages. 
+    https://github.com/VundleVim/Vundle.vim#quick-start
 2. Installing the YCM: 
+    If using the vundle to manage the vim packages modify the .vimrc syntax 
+    comment the ```set rtp+=~/.vim/bundle/vundle``` and comment out the ```set rtp+=~/.vim/bundle/Vundle.vim```. 
     https://github.com/ycm-core/YouCompleteMe#installation 
