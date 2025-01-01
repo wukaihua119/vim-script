@@ -75,7 +75,8 @@ set splitbelow
 
 set hlsearch
 
-:colors desert
+:colors evening
+
 
 
 " ctags 
