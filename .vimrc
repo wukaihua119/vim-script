@@ -1,7 +1,7 @@
 set nocompatible
 
-set rtp+=~/.vim/bundle/vundle
-" or set rtp+=~/.vim/bundle/Vundle.vim
+" set rtp+=~/.vim/bundle/vundle
+set rtp+=~/.vim/bundle/Vundle.vim
 
 " Setting Plugins 
 call vundle#begin() 
@@ -75,6 +75,7 @@ set splitbelow
 
 set hlsearch
 
+:colors desert
 
 
 " ctags 
