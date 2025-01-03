@@ -34,7 +34,7 @@ let g:ycm_collect_identifiers_from_tag_files = 1
 set completeopt-=preview
 set completeopt=longest,menu
 "turn off the syntax checking 
-"let g:ycm_show_diagnostics_ui=0
+let g:ycm_show_diagnostics_ui=0
 let g:ycm_confirm_extra_conf=0
 let g:ycm_cache_omnifunc=0
 let g:ycm_complete_in_comments=1
@@ -75,8 +75,8 @@ set splitbelow
 
 set hlsearch
 
-:colors evening
-
+hi comment ctermfg=6
+hi Directory guifg=#FF0000 ctermfg=blue
 
 
 " ctags 
